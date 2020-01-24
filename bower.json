@@ -1,0 +1,17 @@
+{
+  "name": "bower",
+  "authors": [
+    "Dave86 <davidochando1986@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
