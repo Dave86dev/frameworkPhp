@@ -1,9 +1,9 @@
 <?php
 
-$container = require __DIR__ . './bootstrap/container.php';
+$container = require __DIR__ . '/components/bootstrap/container.php';
 
 // __DIR__ es una constante predefinida en PHP con el valor del directorio actual:
-$container = require __DIR__ . './bootstrap/container.php';
+//$container = require __DIR__ . '/components/bootstrap/container.php';
 //utilizaremos la variable $dispacher para leer las rutas que hemos creado:
 $dispatcher = require base_path('routes/web.php');
 
